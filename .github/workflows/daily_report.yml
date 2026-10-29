@@ -2,7 +2,7 @@ name: Update Daily Chicago Freight Report
 
 on:
   schedule:
-    # 8:00 AM Chicago Time (Central Time)
+    # 7:00 AM Chicago Time (Central Time)
     # Note: 13:00 UTC = 8:00 AM CDT (during Daylight Saving Time)
     - cron: '0 13 * * *'
   workflow_dispatch: # This adds a manual "Run" button so you can test it anytime!
