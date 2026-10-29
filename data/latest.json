@@ -1,0 +1,27 @@
+{
+  "date": "Thursday, October 29, 2026",
+  "market": "Chicago, IL",
+  "updated_at": "2026-10-29T18:10:54.216719Z",
+  "van": {
+    "spot_all_in": "$3.08 \u2013 $3.18 / mi",
+    "linehaul": "$2.26 / mi",
+    "ltr": 10.3,
+    "otri": "13.6% (VOTRI)",
+    "status": "Carrier-Favored"
+  },
+  "reefer": {
+    "spot_all_in": "$3.66 \u2013 $3.78 / mi",
+    "linehaul": "$2.74 / mi",
+    "ltr": 16.3,
+    "otri": "20.9% (ROTRI)",
+    "status": "Critically Constrained"
+  },
+  "flatbed": {
+    "spot_all_in": "$3.63 \u2013 $3.73 / mi",
+    "linehaul": "$2.64 / mi",
+    "ltr": 36.5,
+    "otri": "8.5% (FOTRI)",
+    "status": "Capacity Deficit"
+  },
+  "summary": "Chicago truckload capacity remains under steady carrier pricing power. Load-to-Truck Ratios across Van, Reefer, and Flatbed sit well above balanced-market thresholds. Elevated contract tender rejections continue funneling loads into secondary routing tiers."
+}
